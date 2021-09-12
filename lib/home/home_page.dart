@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
             Text(
               'hello flutter',
               style: TextStyle(
-                color: Colors.blue, 
+                color: Colors.blue,
                 fontSize: 40.0,
               ),
             ),
